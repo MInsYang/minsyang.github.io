@@ -1,5 +1,5 @@
-http://example.com/categories/index.html
-http://example.com/tags/index.html
-http://example.com/2023/09/06/test/
-http://example.com/2023/09/06/hello-world/
-http://example.com/
+http://minsyang.github.io/categories/index.html
+http://minsyang.github.io/tags/index.html
+http://minsyang.github.io/2023/09/06/test/
+http://minsyang.github.io/2023/09/06/hello-world/
+http://minsyang.github.io/
